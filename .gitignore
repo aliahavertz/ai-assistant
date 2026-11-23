@@ -1,0 +1,13 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# React / Node
+node_modules/
+dist/
+
+# Environment variables
+.env
+.env.local
